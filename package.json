@@ -1,9 +1,9 @@
 {
-  "name": "react-typing-animation",
+  "name": "@stefanfuchs/react-typing-animation",
   "version": "1.6.2",
   "author": "Adam King https://github.com/adamjking3",
   "homepage": "https://adamjking3.github.io/react-typing-animation-example/",
-  "repository": "github:adamjking3/react-typing-animation",
+  "repository": "github:stefanfuchs/react-typing-animation",
   "license": "MIT",
   "keywords": [
     "react",
@@ -59,13 +59,13 @@
   },
   "dependencies": {
     "raf": "^3.4.0",
-    "shortid": "^2.2.8",
-    "styled-components": "^1.4.6"
+    "shortid": "^2.2.8"
   },
   "peerDependencies": {
     "prop-types": "^15.6.1",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.0",
+    "styled-components": "^5.1.0"
   },
   "main": "./dist/index.js",
   "babel": {
